@@ -9,4 +9,13 @@ Our first visualization shows the proportion of users who are subscribers (~1,90
 
 ![alt text](https://github.com/shaneabbley/bikesharing/blob/main/GenderProportion.png)
 
-This next visualization shows the proportion of users by gender
+This next visualization shows the proportion of users by gender.
+
+![alt text](https://github.com/shaneabbley/bikesharing/blob/main/CheckoutTimes.png)
+
+This visualization shows the duration of rides by minute and hour.
+
+![alt text](https://github.com/shaneabbley/bikesharing/blob/main/CheckoutTimesGender.png)
+
+This visualization shows the duration of rides by minute, hour, and gender.
+
