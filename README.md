@@ -4,7 +4,9 @@ In order to pitch our idea for city bike rentals in Des Moines, Iowa to invester
 
 ### Data Visualizations and Results
 ![alt text](https://github.com/shaneabbley/bikesharing/blob/main/UserProportion.png)
+
 Our first visualization shows the proportion of users who are subscribers (~1,900,000) and those who are not (~440,000).
 
 ![alt text](https://github.com/shaneabbley/bikesharing/blob/main/GenderProportion.png)
+
 This next visualization shows the proportion of users by gender
